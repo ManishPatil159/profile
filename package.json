@@ -1,0 +1,35 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "personal profile for manish patil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishPatil159/profile.git"
+  },
+  "keywords": [
+    "manish",
+    "patil",
+    "software",
+    "engineer",
+    "and",
+    "a",
+    "web",
+    "developer",
+    "personal",
+    "profile"
+  ],
+  "author": "Manish Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishPatil159/profile/issues"
+  },
+  "homepage": "https://github.com/ManishPatil159/profile#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

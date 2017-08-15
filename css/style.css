@@ -1,0 +1,64 @@
+*{
+    font-family: 'Lora', serif;
+}
+
+.cover{
+    color: rgb(255, 255, 255);
+    position: relative;
+    /* min-height: 350px; */
+    height: 100vh;    
+    background: url("../images/homeimage.jpg") no-repeat scroll 0px 100% / cover transparent;
+    filter:brightness(50%);
+}
+
+.education-cover{
+    color: rgb(255, 255, 255);
+    position: relative;
+    /* min-height: 350px; */
+    height: 100vh;    
+    background: url("../images/educationimage.jpg") no-repeat scroll 0px 100% / cover transparent;
+    filter:brightness(50%);
+}
+
+.experience-cover{
+    color: rgb(255, 255, 255);
+    position: relative;
+    /* min-height: 350px; */
+    height: 100vh;    
+    background: url("../images/experience-image.jpg") no-repeat scroll 0px 100% / cover transparent;
+    filter:brightness(50%);
+}
+
+nav ul li {
+  list-style:none;
+  float:left;
+  margin-right:50px;
+}
+
+section{
+    height:100vh;
+}
+
+hr{
+    border-bottom: 1px solid black;
+    margin-top: 0px;
+}
+
+.li-section {
+    padding: 5%;
+}
+
+
+
+.li-ul{
+    padding: 0px;
+    list-style-type: none;
+}
+
+.li-ul li {
+    margin-bottom: 5%;
+}
+
+.li-desc {
+    border-left: 1px solid #464646;
+}
